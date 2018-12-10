@@ -1,0 +1,13 @@
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\bin\Debug\EFRelationshipLesson.exe.config
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\bin\Debug\EFRelationshipLesson.exe
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\bin\Debug\EFRelationshipLesson.pdb
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\bin\Debug\EntityFramework.dll
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\bin\Debug\EntityFramework.xml
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\obj\Debug\EFRelationshipLesson.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\obj\Debug\EFRelationshipLesson.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\obj\Debug\EFRelationshipLesson.csproj.CopyComplete
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\obj\Debug\EFRelationshipLesson.exe
+C:\Users\темирбулата\source\repos\EFRelationshipLesson\EFRelationshipLesson\obj\Debug\EFRelationshipLesson.pdb
